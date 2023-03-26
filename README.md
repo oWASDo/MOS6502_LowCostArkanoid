@@ -8,5 +8,5 @@ A littel game made with (aivMachines, NEs simulator)
 [![Watch the preview video](https://media.licdn.com/dms/image/C4D05AQEEk_Dqhg0YRw/videocover-high/0/1671672315457?e=1680458400&v=beta&t=2oglHvWjXO9XJ_rO0Q4Kq2dH3V7UHZsJl35aR9-ZSWU)]("https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6466681534454722560")
 
 <p align="center">
-  <img src="https://github.com/Avik-Jain/100-Days-Of-ML-Code/blob/master/Info-graphs/Day%201.jpg">
+  <img src="https://github.com/oWASDo/MOS6502_LowCostArkanoid/blob/master/screenshot0.png">
 </p>
